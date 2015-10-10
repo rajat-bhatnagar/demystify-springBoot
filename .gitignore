@@ -2,3 +2,5 @@
 .springBeans
 .project
 target/
+.DS_Store
+.tmp
