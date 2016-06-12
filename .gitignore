@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 .classpath
 .project
 .settings/
 target/
-=======
-.settings
-target/
 .DS_Store
-.tmp
-.idea
-demystify-spring.iml
->>>>>>> ca74eed88b5c2c44d91de42092d4e12898dd080b
