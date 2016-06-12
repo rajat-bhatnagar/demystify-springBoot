@@ -1,4 +1,4 @@
-package com.thoughtworks.boot;
+package com.thoughtworks.boot.controller;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
